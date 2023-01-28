@@ -1,0 +1,10 @@
+{
+    "host":"http://localhost",
+    "login":"/login.php",
+    "signup":"/signup.php",
+    "find":"/find.php",
+    "message":"/message.php",
+    "move":"/move.php",
+    "continue":"/main.php",
+    "timeout":4000
+}
