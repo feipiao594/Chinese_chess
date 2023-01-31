@@ -61,3 +61,12 @@ pm_winnt:notice] [pid 35368:tid 328] AH00354: Child: Starting 64 worker threads.
 [Sat Jan 28 22:07:22.704243 2023] [mpm_winnt:notice] [pid 35460:tid 332] AH00422: Parent: Received shutdown signal -- Shutting down the server.
 [Sat Jan 28 22:07:24.718382 2023] [mpm_winnt:notice] [pid 35368:tid 328] AH00364: Child: All worker threads have exited.
 [Sat Jan 28 22:07:24.755969 2023] [mpm_winnt:notice] [pid 35460:tid 332] AH00430: Parent: Child process 35368 exited successfully.
+[Tue Jan 31 12:28:53.003867 2023] [mpm_winnt:notice] [pid 18488:tid 248] AH00455: Apache/2.4.54 (Win64) PHP/8.2.1 configured -- resuming normal operations
+[Tue Jan 31 12:28:53.003867 2023] [mpm_winnt:notice] [pid 18488:tid 248] AH00456: Apache Lounge VS17 Server built: Nov 10 2022 11:16:17
+[Tue Jan 31 12:28:53.004867 2023] [core:notice] [pid 18488:tid 248] AH00094: Command line: 'C:\\daily\\Chinese_chess\\server\\Apache\\bin\\httpd.exe -d C:/daily/Chinese_chess/server/Apache'
+[Tue Jan 31 12:28:53.007870 2023] [mpm_winnt:notice] [pid 18488:tid 248] AH00418: Parent: Created child process 21860
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 21860:tid 356] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 31 15:16:33.340062 2023] [mpm_winnt:notice] [pid 18488:tid 248] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jan 31 15:16:35.368664 2023] [mpm_winnt:notice] [pid 21860:tid 356] AH00364: Child: All worker threads have exited.
+[Tue Jan 31 15:16:35.390665 2023] [mpm_winnt:notice] [pid 18488:tid 248] AH00430: Parent: Child process 21860 exited successfully.

@@ -50,6 +50,13 @@ public:
                 }
             }
         }
+        for(int i=4;i<=6;i++){
+            for(int j=8;j<=10;j++){
+                if(isValidMove(i,j)){
+                    result.push_back(std::make_pair(i,j));
+                }
+            }
+        }
         return result;
     }
     virtual const bool isBasicMove(int x, int y) const{
